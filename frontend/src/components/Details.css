@@ -1,0 +1,31 @@
+.bodykit{
+    display: flex;
+    flex-direction: row;
+    background: rgb(12, 12, 12);
+}
+.left-details{
+    width: 40%;
+    margin:5em;
+    background: #232323;
+    padding: .5em;
+}
+.bodykit p{
+    color: #FFFFFF;
+    
+}
+.bodykit h2{
+    color: #FFFFFF;
+    margin-left: 1em;
+}
+.right-details{
+    width: 40%;
+    margin:5em;
+    background: #232323;
+    padding: .5em;
+}
+.foto{
+    width: 40%;
+    align: center;
+    display: block;
+    margin: auto;
+}

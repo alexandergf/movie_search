@@ -1,0 +1,6 @@
+.App {
+  background: rgb(12, 12, 12);
+}
+.App #submit{
+  margin: .3em;
+}

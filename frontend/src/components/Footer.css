@@ -1,0 +1,23 @@
+.datos{
+    align-content: center;
+    -webkit-column-count: 5;
+    -moz-column-count: 5;
+    column-count: 5;
+    -webkit-column-gap: 100px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 100px; /* Firefox */
+    column-gap: 100px;
+    -webkit-column-width: 300px; /* Chrome, Safari, Opera */
+    -moz-column-width: 300px; /* Firefox */
+    column-width: 300px;
+}
+.footer{
+    background: rgb(12, 12, 12);
+    padding-top: .1em;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.titulo h1{
+    margin-left:  2.5%;
+    color: #ffffff;
+}

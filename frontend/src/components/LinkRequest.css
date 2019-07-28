@@ -1,0 +1,28 @@
+.content{
+    display: block;
+    margin: auto;
+    padding: .2em .5em;
+    
+}
+.link{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.poster {
+    height: 13em;
+    display: block;
+    margin: auto;
+}
+.texto{
+   text-align:  center; 
+}
+.texto p{
+    color: #ffffff;
+}
+.content2 {
+    display: block;
+    margin: auto;
+    padding: .2em .5em;
+    
+}

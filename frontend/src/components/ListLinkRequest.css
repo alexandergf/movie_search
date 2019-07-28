@@ -1,0 +1,40 @@
+.resultados{
+    align-content: center;
+    -webkit-column-count: 5;
+    -moz-column-count: 5;
+    column-count: 5;
+    -webkit-column-gap: 100px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 100px; /* Firefox */
+    column-gap: 100px;
+    -webkit-column-width: 300px; /* Chrome, Safari, Opera */
+    -moz-column-width: 300px; /* Firefox */
+    column-width: 300px;
+    background: rgb(12, 12, 12);
+    padding-top: 2em; 
+}
+.heder-pre{
+  background: rgb(12, 12, 12);
+  height: 980px;
+}
+.resultados-pre{
+  background-image: linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.5) ),
+    url(../img/loooool.jpg);
+  background-repeat: no-repeat; 
+  background-size: 100% 150% ;
+  padding: 3em 0;
+  background-origin: content-box;
+}
+.resultados-pre h1{
+  color: #00FF97;
+}
+.resultados-pre p{
+  color: #ffffff;
+  text-align: justify;
+  font-size: 20px;
+}
+.left-LLR{
+  margin-left: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 35%;
+}
